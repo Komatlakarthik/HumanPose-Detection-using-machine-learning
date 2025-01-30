@@ -39,7 +39,7 @@ streamlit run app.py
 
 🔹 BlazePose is used for real-time pose detection.
 
-🔹 OpenCV processes frames from images/videos/webcam.
+🔹 OpenCV processes frames from images.
 
 🔹 Streamlit provides an interactive UI for users.
 
